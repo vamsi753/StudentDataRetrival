@@ -1,0 +1,7 @@
+C:\Users\ltybj\OneDrive\Desktop\.net\StudentDataRetrival\StudentDataRetrival\obj\Debug\StudentDataRetrival.csproj.AssemblyReference.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\StudentDataRetrival\StudentDataRetrival\obj\Debug\StudentDataRetrival.csproj.CoreCompileInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\StudentDataRetrival\StudentDataRetrival\bin\Debug\StudentDataRetrival.exe.config
+C:\Users\ltybj\OneDrive\Desktop\.net\StudentDataRetrival\StudentDataRetrival\bin\Debug\StudentDataRetrival.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\StudentDataRetrival\StudentDataRetrival\bin\Debug\StudentDataRetrival.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\StudentDataRetrival\StudentDataRetrival\obj\Debug\StudentDataRetrival.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\StudentDataRetrival\StudentDataRetrival\obj\Debug\StudentDataRetrival.pdb
